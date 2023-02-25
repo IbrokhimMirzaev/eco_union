@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "242878330395",
+    "project_id": "eco-union-e48c4",
+    "storage_bucket": "eco-union-e48c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242878330395:android:0fb7f82dc5a2fdaf67aabe",
+        "android_client_info": {
+          "package_name": "eco.union.eco_union"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242878330395-d698n2fu7bve8mgieo4nprbkb0cjb8ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbTiHmXOTGhsiw5hTYSd8T-AjnOVTC-Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242878330395-d698n2fu7bve8mgieo4nprbkb0cjb8ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242878330395:android:4f5cac9e8424781267aabe",
+        "android_client_info": {
+          "package_name": "eco.union.eco_union_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242878330395-d698n2fu7bve8mgieo4nprbkb0cjb8ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbTiHmXOTGhsiw5hTYSd8T-AjnOVTC-Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242878330395-d698n2fu7bve8mgieo4nprbkb0cjb8ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
