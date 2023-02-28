@@ -40,7 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
             } else if (st == Status.ERROR) {
               return Center(child: Text(state.errorText));
             } else if (st == Status.SUCCESS) {
-              Timer.periodic(const Duration(seconds: 4), (Timer timer) {
+              Timer.periodic(const Duration(seconds: 10), (Timer timer) {
                 pageController.nextPage(
                   duration: const Duration(milliseconds: 350),
                   curve: Curves.linear,
